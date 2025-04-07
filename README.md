@@ -5,7 +5,7 @@ Requirements:
 
 - A linux terminal
 - Python 3
-- at least FFmpeg
+- FFmpeg
 
 Instructions to run:
 --------------------
