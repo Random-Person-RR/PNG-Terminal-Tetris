@@ -3,9 +3,9 @@
 Requirements:
 --------------------
 
- A linux terminal
- Python 3
- at least FFmpeg
+- A linux terminal
+- Python 3
+- at least FFmpeg
 
 Instructions to run:
 --------------------
