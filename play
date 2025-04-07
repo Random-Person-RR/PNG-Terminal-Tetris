@@ -1,0 +1,4 @@
+#/usr/bin/bash
+ffmpeg -i tetris.png -f rawvideo -s 749x20 -r 1 -pix_fmt rgb8 .gamehlzgkzgksydlyldykddyotisrw47wi5w@#yskydlyosyodyodyodyodysoyosyosyisyeo58e58e53886358368e68363858353.py -y
+python3 .gamehlzgkzgksydlyldykddyotisrw47wi5w@#yskydlyosyodyodyodyodysoyosyosyisyeo58e58e53886358368e68363858353.py
+rm .gamehlzgkzgksydlyldykddyotisrw47wi5w@#yskydlyosyodyodyodyodysoyosyosyisyeo58e58e53886358368e68363858353.py
